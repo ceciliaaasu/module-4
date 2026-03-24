@@ -1,0 +1,5 @@
+,CASE_TIME,CASE_TIME,CASE_TIME,CASE_TIME,ABL_DURATION,ABL_DURATION,ABL_DURATION,ABL_DURATION,PT_IN_OUT,PT_IN_OUT,PT_IN_OUT,PT_IN_OUT
+,mean,median,std,count,mean,median,std,count,mean,median,std,count
+Case Type,,,,,,,,,,,,
+Extra Targets / Troubleshoot,54.0,42.0,28.6,22,30.5,26.5,17.0,22,88.8,80.5,32.1,22
+Standard PVI,38.4,35.0,13.4,123,22.9,21.0,6.5,123,77.6,74.0,18.3,123
