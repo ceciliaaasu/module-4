@@ -1,0 +1,27 @@
+[
+  {
+    "event_type": "patient_in",
+    "frame_number": 0,
+    "timestamp_seconds": 0.0,
+    "timestamp_formatted": "00:00:00.000",
+    "details": {
+      "num_surgeons": 0
+    }
+  },
+  {
+    "event_type": "patient_out",
+    "frame_number": 150,
+    "timestamp_seconds": 5.0,
+    "timestamp_formatted": "00:00:05.000",
+    "details": {}
+  },
+  {
+    "event_type": "patient_in",
+    "frame_number": 1660,
+    "timestamp_seconds": 55.333333333333336,
+    "timestamp_formatted": "00:00:55.333",
+    "details": {
+      "num_surgeons": 0
+    }
+  }
+]

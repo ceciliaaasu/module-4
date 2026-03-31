@@ -1,4 +1,0 @@
-Physician,Slope (min/case),p-value,R²,Significant,n_cases
-Dr. A,-0.029,0.5266,0.006,No,70
-Dr. B,-0.045,0.7859,0.001,No,60
-Dr. C,-1.018,0.2467,0.102,No,15

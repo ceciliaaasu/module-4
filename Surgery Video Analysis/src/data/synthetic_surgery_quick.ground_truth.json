@@ -1,0 +1,36 @@
+{
+  "fps": 30,
+  "procedures": [
+    {
+      "index": 0,
+      "patient_in": 0.0,
+      "procedure_start": 15.0,
+      "procedure_end": 150.0,
+      "patient_out": 180.0
+    }
+  ],
+  "events": [
+    {
+      "type": "patient_in",
+      "frame": 0,
+      "timestamp": 0.0
+    },
+    {
+      "type": "procedure_start",
+      "frame": 450,
+      "timestamp": 15.0
+    },
+    {
+      "type": "procedure_end",
+      "frame": 4500,
+      "timestamp": 150.0
+    },
+    {
+      "type": "patient_out",
+      "frame": 5400,
+      "timestamp": 180.0
+    }
+  ],
+  "total_frames": 5400,
+  "total_duration_sec": 180.0
+}

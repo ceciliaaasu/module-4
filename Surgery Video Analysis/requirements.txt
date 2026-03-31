@@ -1,0 +1,15 @@
+# Surgery Video Analyzer - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core video processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Object detection (YOLO)
+ultralytics>=8.0.0
+
+# Pose estimation
+mediapipe>=0.10.0
+
+# Utilities
+tqdm>=4.65.0

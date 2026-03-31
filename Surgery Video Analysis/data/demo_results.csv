@@ -1,0 +1,4 @@
+event_type,frame_number,timestamp_seconds,timestamp_formatted,details
+patient_in,0,0.000,00:00:00.000,"{""num_surgeons"": 0}"
+patient_out,150,5.000,00:00:05.000,{}
+patient_in,1660,55.333,00:00:55.333,"{""num_surgeons"": 0}"
